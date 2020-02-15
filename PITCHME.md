@@ -9,7 +9,7 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Marp CLI example 
 
 Hosting Marp slide deck on the web
 
@@ -18,7 +18,8 @@ https://github.com/yhatt/marp-cli-example
 <style scoped>a { color: #eee; }</style>
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
-
+---
+# hello
 ---
 
 ![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
